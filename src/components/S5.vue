@@ -20,6 +20,7 @@ export default {
     background-color: lightblue;
 
     margin-top: 30px;
+    
     width: 100%;
     height: 100%;
 
