@@ -1,28 +1,82 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" ref="container">
+    <h2 class="pagetitle">Appunti</h2>
+    <p id="data">29.02.2020</p>
+    <h3>S5 Westkreuz  ⇌ Ostbanhof</h3>
+    <p>Abbiamo percorso la linea S5 da Ostbanhof a Westkreuz.</p>
+    <Esse5 :width="width" :height="height" />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Esse5 from './components/S5.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Esse5
+  },
+  data () {
+    return {
+      width: 0,
+      height: 0
+    }
+  },
+  methods: {
+    calcSizes () {
+      const { container: el } = this.$refs
+      const totalWidth = el.clientWidth
+      const totalHeight = el.clientHeight || el.parentNode.clientHeight
+      this.width = Math.max(totalWidth, 500)
+      this.height = Math.max(totalHeight, 500)
+    }
+  },
+  mounted () {
+    this.calcSizes()
+    window.addEventListener('resize', this.calcSizes, false)
+  },
+  updated () {
+    this.calcSizes()
+  },
+  beforeDestroy () {
+    window.removeEventListener('resize', this.calcSizes, false)
   }
 }
 </script>
 
 <style lang="scss">
+@import "./style/global.scss";
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  max-width: 900px;
+  margin: 0 auto;
+
+  height: 100vh;
+
+  h2, h3 {
+    font-family: $libre;
+    color: $blue;
+    margin-top: 60px;
+  }
+
+  h3 {
+    margin-top: 40px;
+  }
+
+  p {
+    margin-top: 30px;
+    font-family: $karla;
+    color: #2c3e50;
+    margin: 0 auto;
+  }
+
+  .pagetitle {
+    padding-bottom: 20px;
+    border-bottom: 1px solid $red;
+  }
+
+  #data {
+    color: $red;
+  }
 }
 </style>
