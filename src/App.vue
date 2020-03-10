@@ -1,6 +1,6 @@
 <template>
   <div id="app" ref="container">
-    <h2 class="pagetitle">Appunti</h2>
+    <h1 class="pagetitle">Abitare il Limite</h1>
     <p id="data">29.02.2020</p>
     <h3>S5 Westkreuz  ⇌ Ostbanhof</h3>
     <p>Abbiamo percorso la linea S5 da Ostbanhof a Westkreuz.</p>
@@ -53,10 +53,13 @@ export default {
 
   height: 100vh;
 
-  h2, h3 {
+  h1 {
+    padding-top: 200px;
+  }
+
+  h1, h3 {
     font-family: $libre;
     color: $blue;
-    margin-top: 60px;
   }
 
   h3 {

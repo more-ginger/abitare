@@ -3,18 +3,30 @@
     "number":1,
     "latitude": 0,
     "longitude": 0,
-    "link": "data/IMG_9881.HEIC"
+    "link": "IMG_9881.png"
   },
   {
     "number":2,
     "latitude": 0,
     "longitude": 0,
-    "link": "data/IMG_9881.HEIC"
+    "link": "IMG_9882.png"
   },
   {
     "number":3,
     "latitude": 0,
     "longitude": 0,
-    "link": "data/IMG_9881.HEIC"
+    "link": "IMG_9883.png"
+  },
+  {
+    "number":3,
+    "latitude": 0,
+    "longitude": 0,
+    "link": "IMG_9884.png"
+  },
+  {
+    "number":3,
+    "latitude": 0,
+    "longitude": 0,
+    "link": "IMG_9885.png"
   }
 ]
