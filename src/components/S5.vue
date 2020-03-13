@@ -7,8 +7,8 @@
       v-for="(photo, i) in photos"
       v-bind:key="i"
       class="photo"
-      src="x"
-      v-bind:alt="photo.link"
+      :src="getImgUrl(photo.link)"
+      v-bind:alt="photo.number"
       />
     </div>
   </div>
@@ -27,9 +27,6 @@ export default {
     return {
       photos
     }
-  },
-  mounted () {
-    this.getImgUrl()
   },
   methods: {
     getImgUrl (photo) {
