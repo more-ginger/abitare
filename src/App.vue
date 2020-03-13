@@ -1,9 +1,11 @@
 <template>
   <div id="app" ref="container">
     <h1 class="pagetitle">Abitare il Limite</h1>
+    <h3>Westkreuz ↔︎ Ostbanhof</h3>
     <p id="data">29.02.2020</p>
-    <h3>S5 Westkreuz  ⇌ Ostbanhof</h3>
-    <p>Abbiamo percorso la linea S5 da Ostbanhof a Westkreuz.</p>
+    <p>La S5 attraversa la città per il lungo: da Westkreuz (situata a ovest)
+    della città, fino a Strausberg a circa 30km da Berlino.<br />
+    </p>
     <Esse5 :width="width" :height="height" />
   </div>
 </template>
@@ -54,11 +56,11 @@ export default {
   height: 100vh;
 
   h1 {
-    padding-top: 200px;
+    padding-top: 100px;
   }
 
   h1, h3 {
-    font-family: $libre;
+    font-family: $karla;
     color: $blue;
   }
 

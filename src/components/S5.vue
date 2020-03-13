@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
     <img src="../assets/svg/s5_first.svg"/>
-    <p>ciao!</p>
     <div class="photos">
       <img
       v-for="(photo, i) in photos"
@@ -54,9 +53,10 @@ export default {
     }
 
     .photo {
-      padding-right: 5px;
-      width: 20%;
-      display: inline-grid;
+      padding-right: 10px;
+      width: 15%;
+      display: inline-flex;
+      align-content: flex-start;
     }
 
   }
