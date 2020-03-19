@@ -1,4 +1,4 @@
-{
+  {
   "name": "abitare",
   "version": "0.1.0",
   "private": true,
@@ -49,5 +49,5 @@
     "> 1%",
     "last 2 versions"
   ],
-  "homepage": "git@github.com:more-ginger/abitare.git"
+  "homepage": "git@github.com:more-ginger/abitare"
 }

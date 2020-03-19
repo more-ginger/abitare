@@ -1,21 +1,18 @@
 <template>
   <div id="app" ref="container">
-    <h1 class="pagetitle">Abitare il Limite</h1>
-    <h3>Westkreuz ↔︎ Ostbanhof</h3>
-    <p id="data">29.02.2020</p>
-    <p>La S5 attraversa la città per il lungo: da Westkreuz (situata a ovest)
-    della città, fino a Strausberg a circa 30km da Berlino.<br />
-    </p>
+    <Home />
     <Esse5 :width="width" :height="height" />
   </div>
 </template>
 
 <script>
+import Home from './components/Home.vue'
 import Esse5 from './components/S5.vue'
 
 export default {
   name: 'App',
   components: {
+    Home,
     Esse5
   },
   data () {
@@ -50,17 +47,17 @@ export default {
 @import "./style/global.scss";
 
 #app {
-  max-width: 900px;
   margin: 0 auto;
-
   height: 100vh;
 
   h1 {
-    padding-top: 100px;
+    padding-top: 25%;
+    font-size: 120px;
+    height: 120px;
   }
 
-  h1, h3 {
-    font-family: $karla;
+  h1, h2, h3 {
+    font-family: $staatliches;
     color: $blue;
   }
 
@@ -73,11 +70,6 @@ export default {
     font-family: $karla;
     color: #2c3e50;
     margin: 0 auto;
-  }
-
-  .pagetitle {
-    padding-bottom: 20px;
-    border-bottom: 1px solid $red;
   }
 
   #data {
