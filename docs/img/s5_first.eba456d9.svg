@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="684px" height="155px" viewBox="0 0 684 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>s5_first</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="85.3294041%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#C7D2F4" offset="0%"></stop>
+            <stop stop-color="#21369D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="s5_first">
+            <g id="Group-2" transform="translate(10.000000, 0.000000)">
+                <path d="M0,142 L12,137 L27,133 L39.9618153,128.425242 C42.6344754,127.48195 45.4480791,127 48.2823182,127 L69,127 L69,127 L85.8143266,128.681433 C87.8564733,128.885647 89.897398,128.282082 91.5,127 C93.1470372,125.68237 94.4885027,124.022995 95.4317821,122.136436 L100,113 L100,113 L105,99 L109,90 L113,85 L113.628292,83.9528471 C115.14249,81.429183 117.62701,79.6384421 120.5,79 C123.47876,78.3380533 126.547675,78.1820794 129.578198,78.5386115 L138.859382,79.6305155 C140.927721,79.8738495 143.024269,79.6585769 145,79 C146.987861,78.3373796 148.860344,77.3690812 150.550077,76.1299439 L163,67 L163,67 L169,62 C170.311891,61.5207464 172.645225,61.5207464 176,62 C179.354775,62.4792536 181.688109,63.1459203 183,64 L183,64 L188,71 L188,71 L191.316718,72.6583592 C193.081322,73.5406608 195.027114,74 197,74 C198.972886,74 200.918678,74.4593392 202.683282,75.3416408 L204,76 C206.630515,77.3152576 209.531131,78 212.472136,78 L219,78 L219,78 L228,71 L239,69 L242.434878,68.2366939 C245.95956,67.4534312 249.649916,68.2832677 252.5,70.5 C255.480505,72.8181708 258.067792,75.601688 260.162278,78.7434165 L263,83 L263,83 L266.715163,89.3688505 C268.873749,93.0692841 271.88575,96.2000224 275.5,98.5 C279.14284,100.818171 283.135584,102.533896 287.324555,103.581139 L293,105 L293,105 C298.90907,106.313127 304.404057,109.06062 309,113 L309,113 L309,113 L322,120 L337,125 L355.053466,128.139733 C358.347469,128.712603 361.599478,129.505098 364.787731,130.511915 L379,135 L379,135 L393,137 L403,133 L429,111 L439,102 L450,99 L464,97 L484,99 L492,99 L516,93 L527,95 L534,99 L542,102 L556,102 L582,102 L593,102 L599,105 L615,105 L646,105 L659,105 L667,103 L673,101" id="Path" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></path>
+                <line x1="646.5" y1="57.5" x2="646" y2="117" id="Path-2" stroke="#000D4E" stroke-dasharray="5"></line>
+                <path d="M126.25,76.25 L125.870322,123.709793 C125.80405,131.993799 132.465839,138.763037 140.749846,138.829309 C140.763389,138.829418 140.776934,138.829508 140.790478,138.829579 L173,139 L173,139" id="Path-2-Copy" stroke="#000D4E" stroke-width="0.5"></path>
+                <path d="M270,19 L221.089022,19.1980202 C213.972512,19.2268319 208.201913,24.9723572 208.142112,32.0886738 L207.75,78.75 L207.75,78.75" id="Path-2-Copy-3" stroke="#000D4E" stroke-width="0.5"></path>
+                <path d="M363,49 L317.086357,49.1953772 C309.9709,49.2256557 304.201926,54.9707499 304.142134,62.0860197 L303.75,108.75 L303.75,108.75" id="Path-2-Copy-4" stroke="#000D4E" stroke-width="0.5"></path>
+                <path d="M163,38 L119.089601,38.1934379 C111.972866,38.2247891 106.204218,43.9727388 106.147285,51.0893151 L105.75,100.75 L105.75,100.75" id="Path-2-Copy-2" stroke="#000D4E" stroke-width="0.5"></path>
+                <g id="Brandeburgo" transform="translate(658.000000, 53.000000) rotate(-90.000000) translate(-658.000000, -53.000000) translate(628.000000, 47.000000)" fill="#000D4E" font-family="Karla-Regular, Karla" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="9">Brandeburgo</tspan>
+                    </text>
+                </g>
+                <g id="Tiergarten" transform="translate(103.000000, 21.000000)" fill="#000D4E" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="11">Tiergarten</tspan>
+                    </text>
+                </g>
+                <g id="Bellevue" transform="translate(123.000000, 143.000000)" fill="#000D4E" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="11">Bellevue</tspan>
+                    </text>
+                </g>
+                <g id="Frierichstr." transform="translate(206.000000, 0.000000)" fill="#000D4E" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal">
+                    <text id="Friedrichstr.">
+                        <tspan x="0" y="11">Friedrichstr.</tspan>
+                    </text>
+                </g>
+                <g id="Ostbanhof" transform="translate(301.000000, 30.000000)" fill="#000D4E" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal">
+                    <text id="Ostbahnhof">
+                        <tspan x="0" y="11">Ostbahnhof</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(5.000000, 59.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" stroke="#21369D" fill="#9DABEE" transform="translate(4.000000, 83.707107) rotate(45.000000) translate(-4.000000, -83.707107) " x="1.5" y="81.2071068" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy" stroke="#21369D" fill="#21369E" transform="translate(46.353553, 69.146447) rotate(45.000000) translate(-46.353553, -69.146447) " x="44.3535532" y="67.1464465" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-2" stroke="#21369D" fill="#21369E" transform="translate(76.000000, 68.000000) rotate(45.000000) translate(-76.000000, -68.000000) " x="74" y="66" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-3" stroke="#21369D" fill="#21369E" transform="translate(102.000000, 61.000000) rotate(45.000000) translate(-102.000000, -61.000000) " x="100" y="59" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-4" stroke="#21369D" fill="#9DABEE" transform="translate(110.000000, 39.707107) rotate(45.000000) translate(-110.000000, -39.707107) " x="107.5" y="37.2071068" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy-5" stroke="#21369D" fill="#9DABEE" transform="translate(131.000000, 19.707107) rotate(45.000000) translate(-131.000000, -19.707107) " x="128.5" y="17.2071068" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy-6" stroke="#21369D" fill="#21369E" transform="translate(178.000000, 3.000000) rotate(45.000000) translate(-178.000000, -3.000000) " x="176" y="1" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-7" stroke="#21369D" fill="#9DABEE" transform="translate(212.000000, 18.707107) rotate(45.000000) translate(-212.000000, -18.707107) " x="209.5" y="16.2071068" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy-8" stroke="#21369D" fill="#21369D" transform="translate(241.439340, 10.353553) rotate(45.000000) translate(-241.439340, -10.353553) " x="239.43934" y="8.35355339" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-9" stroke="#21369D" fill="#21369D" transform="translate(260.853554, 15.353553) rotate(45.000000) translate(-260.853554, -15.353553) " x="258.853554" y="13.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-10" stroke="#21369D" fill="#21369D" transform="translate(274.853554, 35.353553) rotate(45.000000) translate(-274.853554, -35.353553) " x="272.853554" y="33.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-11" stroke="#21369D" fill="#9DABEE" transform="translate(308.000000, 50.707107) rotate(45.000000) translate(-308.000000, -50.707107) " x="305.5" y="48.2071068" width="5" height="5"></rect>
+                <rect id="Rectangle-Copy-12" stroke="#21369D" fill="#21369D" transform="translate(336.853554, 64.353553) rotate(45.000000) translate(-336.853554, -64.353553) " x="334.853554" y="62.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-13" stroke="#21369D" fill="#21369D" transform="translate(375.439340, 73.353553) rotate(45.000000) translate(-375.439340, -73.353553) " x="373.43934" y="71.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-14" stroke="#21369D" fill="#21369D" transform="translate(406.439340, 74.353553) rotate(45.000000) translate(-406.439340, -74.353553) " x="404.43934" y="72.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-15" stroke="#21369D" fill="#21369D" transform="translate(435.439340, 50.353553) rotate(45.000000) translate(-435.439340, -50.353553) " x="433.43934" y="48.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-16" stroke="#21369D" fill="#21369D" transform="translate(478.353553, 39.146447) rotate(45.000000) translate(-478.353553, -39.146447) " x="476.353553" y="37.1464465" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-17" stroke="#21369D" fill="#21369D" transform="translate(548.353554, 43.560660) rotate(45.000000) translate(-548.353554, -43.560660) " x="546.353554" y="41.5606602" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-18" stroke="#21369D" fill="#21369D" transform="translate(587.353554, 43.560660) rotate(45.000000) translate(-587.353554, -43.560660) " x="585.353554" y="41.5606602" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-19" stroke="#21369D" fill="#21369D" transform="translate(615.439340, 46.353553) rotate(45.000000) translate(-615.439340, -46.353553) " x="613.43934" y="44.3535534" width="4" height="4"></rect>
+                <rect id="Rectangle-Copy-20" stroke="#9DABEE" fill="#9DABEE" transform="translate(662.000000, 46.000000) rotate(45.000000) translate(-662.000000, -46.000000) " x="660" y="44" width="4" height="4"></rect>
+            </g>
+            <g id="Group-2">
+                <rect id="Rectangle" fill="#21369D" transform="translate(22.500000, 22.500000) rotate(-45.000000) translate(-22.500000, -22.500000) " x="7" y="7" width="31" height="31"></rect>
+                <text id="S5" font-family="GTAmerica-Regular, GT America" font-size="16" font-weight="normal" letter-spacing="0.571428571" fill="#FFFFFF">
+                    <tspan x="12" y="28">S5</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
